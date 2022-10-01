@@ -1,8 +1,7 @@
 # deneme
 
 ## alt bilgi
-msalfklafklmsdfsdl
-dşslkflşklşaskfşlksşlfkşls
+kodluyoruz ilk proje odevi
 
 * sasad
 - lksdaskklas
